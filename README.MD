@@ -10,6 +10,6 @@ This is Catafrancia123 with a exclusive biography!
 ## Links
 [Wakatime Stats](https://wakatime.com/@catafranc123)
 
-[Website](https://catafrancia123.github.io/catamapp-website/subdirs/projects/projects.html)
+[Website](https://catafrancia123.github.io/catamapp-website/)
 
 ## Thank you for reading my biography!
