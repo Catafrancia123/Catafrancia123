@@ -7,7 +7,8 @@ This is Catafrancia123 with a exclusive biography!
 - Im learning: Python, Roblox Lua
 - Always know that everything is fine with a chat! Chat me here: catamapp#3620
 
-## Stats
+## Links
 [Wakatime Stats](https://wakatime.com/@catafranc123)
+[Website](https://catafrancia123.github.io/catamapp-website/subdirs/projects/projects.html)
 
 ## Thank you for reading my biography!
