@@ -4,8 +4,8 @@ This is Catafrancia123 (catamapp). Welcome to my github page!
 
 ## About myself
 
-- What projects im doing: [red_order-bot](https://github.com/Catafrancia123/red_order-bot) One of my commisions.
-- Im learning: SQL and databases in general
+- What projects im doing: [COSUB](https://github.com/Catafrancia123/cosub) (short for Catamapp's Open Source Utilities Bot) The discord bot for work enviroments!
+- Im learning: discord.py and advanced python
 - Contact me at discord (catamapp) or any of my socials!
 
 ## Links
